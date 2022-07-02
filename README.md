@@ -3,7 +3,7 @@ BioEconomy Community Communication Tool, an Agent-Based Model (BECT-ABM). This i
   An agent-based modeling tool supporting bioenergy and bio-product community communication regarding cellulosic bioeconomy development.
 
 Prerequisites:
-  •	biorefineries (need to be installed from file)  
+  •	biorefineries 
   •	mortgage  
   •	scipy  
   •	geopandas  
