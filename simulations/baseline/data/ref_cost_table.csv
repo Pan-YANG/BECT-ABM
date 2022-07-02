@@ -1,0 +1,8 @@
+ref_type,ref_fix_invest_costs (M$),ref_via_invest_costs (M$),ref_base_cap (ML),ref_fix_oper_costs ($/L),ref_via_oper_costs ($/L)
+1,15.67,0,150,0.025,0.019
+2,80,0,150,0.08,0.07
+3,65,0,48,0.1,0.1
+4,65,0,48,0.16,0.133
+5,0,0,0,0,0
+6,0,5.38E-05,0,0,0.15
+7,9.2,0,35000,0,44

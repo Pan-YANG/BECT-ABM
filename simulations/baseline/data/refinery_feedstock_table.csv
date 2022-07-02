@@ -1,0 +1,8 @@
+refinery type,corn,soy,corn_stover,miscanthus,switchgrass,bagasse,sorghum,cane
+corn,1,0,0,0,0,0,0,0
+cellulosic,0,0,1,1,1,1,0,0
+lipid,0,0,0,0,0,0,1,1
+lipid-cellulosic,0,0,0,0,0,0,1,1
+cofire_5,0,0,1,1,1,1,0,0
+cofire_15,0,0,1,1,1,1,0,0
+BCHP,0,0,1,1,1,1,0,0

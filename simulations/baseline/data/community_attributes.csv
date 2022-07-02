@@ -1,0 +1,5 @@
+# ID,acept_threshold,base_increase_rate,max_attitude,sensi_N,ratio_farmer,N_limit (ton),max_LU_change,max_jobs,max_capacity
+0,0,0,1,0.08,0.8,45.81081082,0.1,20,1500000000
+1,0,0,1,0.09,0.8,27.48648648,0.1,20,1200000000
+2,0,0,1,0.1,0.7,15.27027027,0.1,20,800000000
+3,0,0,1,0.11,0.6,24.43243244,0.1,20,2000000000

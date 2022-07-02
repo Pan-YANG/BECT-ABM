@@ -1,0 +1,4 @@
+# ID,loc_ID,corn,soy,stover,mis,switch,bagasse,sorghum_oil,cane_oil,sorghum_joint,cane_joint,cap,tech_type,via_cost,fix_cost,allow_deficit,invest_amount,interest_payment,co_oper
+0,1,1,0,0,0,0,0,0,0,0,0,200000000,1,0.019,0.025,0.2,81368274.69,210284.0372,0
+1,2,1,0,0,0,0,0,0,0,0,0,600000000,1,0.019,0.025,0.2,123331241.9,318730.9989,0
+2,3,1,0,0,0,0,0,0,0,0,0,400000000,1,0.019,0.025,0.2,157299687.7,406517.3251,0

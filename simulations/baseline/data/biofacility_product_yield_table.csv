@@ -1,0 +1,4 @@
+biofacility,ethanol (L/ton),lipid (L/ton),bagasse (ton/ton),DDGS (ton/ton),glycerol (ton/ton),electricity (Mwh/ton),heat (MMBtu/ton)
+cofire_5,0,0,0,0,0,1.68,0
+cofire_15,0,0,0,0,0,1.68,0
+BCHP,0,0,0,0,0,0.96,5.23

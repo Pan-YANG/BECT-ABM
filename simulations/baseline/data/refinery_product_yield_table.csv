@@ -1,0 +1,11 @@
+feedstock type,ethanol (L/ton),lipid (L/ton),bagasse (ton/ton),DDGS (ton/ton),glycerol (ton/ton),electricity (Mwh/ton),heat (MMBtu/ton)
+corn,382,0,0,0.3186,0,0,0
+soy,0,208.7682672,0,0,0,0,0
+corn_stover,257,0,0,0,0,0,0
+miscanthus,338,0,0,0,0,0,0
+switchgrass,338,0,0,0,0,0,0
+bagasse,338,0,0,0,0,0,0
+sorghum_oil,0,0,0,0,0,0,0
+cane_oil,0,0,0,0,0,0,0
+sorghum_joint,0,0,0,0,0,0,0
+cane_joint,0,0,0,0,0,0,0

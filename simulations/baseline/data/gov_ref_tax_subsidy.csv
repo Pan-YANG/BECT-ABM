@@ -1,0 +1,8 @@
+ref_type,cost_share ($),cost_share (%),production_subsidy ($/L),tax_reduction,tax_rate
+1,0,0,0,0,0.21
+2,0,0,0,0,0.21
+3,0,0,0,0,0.21
+4,0,0,0,0,0.21
+5,0,0.5,60,0,0
+6,0,0.5,60,0,0
+7,0,0.5,60,0,0
